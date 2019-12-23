@@ -1,0 +1,25 @@
+# python
+# byte-compiled
+*.py[cdo]
+__pycache__
+
+# pycharm
+.idea
+
+# node
+node_modules
+/dist
+
+# macos
+.DS_Store
+*~
+
+# log files
+*.log
+
+# custom files
+test
+_test.py
+
+
+
